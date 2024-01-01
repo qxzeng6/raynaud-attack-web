@@ -1,0 +1,8 @@
+{
+  "name": "raynaudAttack-web",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "6b484a6f"
+}
